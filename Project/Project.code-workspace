@@ -1,0 +1,33 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore",
+            "userstartup.h": "c",
+            "stm32f10x.h": "c",
+            "userinclude.h": "c",
+            "delay.h": "c",
+            "usart.h": "c",
+            "display.h": "c"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99"
+    },
+    "extensions": {
+        "recommendations": [
+            "cl.eide",
+            "keroc.hex-fmt",
+            "hars.cppsnippets",
+            "zixuanwang.linkerscript",
+            "dan-c-underwood.arm",
+            "zixuanwang.linkerscript",
+            "marus25.cortex-debug"
+        ]
+    }
+}
