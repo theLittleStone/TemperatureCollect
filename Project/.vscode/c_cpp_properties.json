@@ -34,18 +34,19 @@
         {
             "name": "Target 1",
             "includePath": [
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\Libraries\\CMSIS",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\User",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\User\\delay",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\User\\sys",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\User\\usart",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\User\\lcd",
-                "F:\\Keil_v5\\ARM\\ARMCC\\include",
-                "F:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\Libraries\\CMSIS\\startup",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\Libraries\\STM32F10x_StdPeriph_Driver\\src",
-                "f:\\[up]Projects\\STM32\\TemperatureCollect\\Doc"
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\Libraries\\CMSIS",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User\\delay",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User\\sys",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User\\usart",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User\\lcd",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\User\\adc",
+                "E:\\IDEs\\Keil_v5\\ARM\\ARMCC\\include",
+                "E:\\IDEs\\Keil_v5\\ARM\\ARMCC\\include\\rw",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\Libraries\\CMSIS\\startup",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\Libraries\\STM32F10x_StdPeriph_Driver\\src",
+                "g:\\Projects\\MCU\\STM32\\TemperatureCollect\\Doc"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",

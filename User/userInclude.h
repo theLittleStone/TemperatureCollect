@@ -7,10 +7,9 @@
 #include "delay.h"
 #include "lcd.h"
 #include "display.h"
-
-
-
-
+#include "adc.h"
+#include "average.h"
+#include "display.h"
 
 
 #endif

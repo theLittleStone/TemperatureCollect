@@ -337,7 +337,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER,STM32F10X_HD</Define>
               <Undefine></Undefine>
-              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\User;..\User\delay;..\User\sys;..\User\usart;..\User\lcd</IncludePath>
+              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\User;..\User\delay;..\User\sys;..\User\usart;..\User\lcd;..\User\adc</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -605,6 +605,26 @@
               <FileName>lcd.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\User\lcd\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>adc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\User\adc\adc.c</FilePath>
+            </File>
+            <File>
+              <FileName>adc.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User\adc\adc.h</FilePath>
+            </File>
+            <File>
+              <FileName>average.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\User\average.c</FilePath>
+            </File>
+            <File>
+              <FileName>average.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User\average.h</FilePath>
             </File>
           </Files>
         </Group>
