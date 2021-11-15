@@ -10,6 +10,7 @@
 #include "adc.h"
 #include "average.h"
 #include "display.h"
+#include "beep.h"
 
 
 #endif
